@@ -1,0 +1,13 @@
+
+.categories ul {
+  display: flex;
+  list-style: none;
+  text-decoration: none;
+  justify-content: space-between;
+  padding: 0;
+
+  li {
+    border-bottom: 1px solid white;
+    font-size: 24px;
+  }
+}
