@@ -2,16 +2,18 @@
   display: flex;
   justify-content: space-between;
   margin: 80px 16px;
-  box-shadow: 4px 0px 4px #D0D0D0;
-  border-radius: 10px;
-  &:hover {
-    box-shadow: 4px 0px 8px #D0D0D0;
-  }
 }
 
 .img-dj {
   height: 400px;
-  width: 400px;
+  width: 500px;
   object-fit: cover;
   border-radius: 10px 0px 0px 10px;
 }
+
+
+// .dj-infos {
+//   // align-items: center;
+//   // display: flex;
+//   // flex-direction: column;
+// }
